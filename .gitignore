@@ -34,6 +34,9 @@ media/
 # Development files
 .dev/
 
+# Environment variables
+# *.env
+
 # Log files
 *.log
 
@@ -66,11 +69,11 @@ coverage.xml
 *,cover
 
 # Environments
-.env
-.envrc
-.mkenv
-.venv
-venv/
-ENV/
-env.bak/
-env/
+# .env
+# .envrc
+# .mkenv
+# .venv
+# venv/
+# ENV/
+# env.bak/
+# env/
