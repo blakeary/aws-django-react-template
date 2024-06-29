@@ -34,9 +34,6 @@ media/
 # Development files
 .dev/
 
-# Environment variables
-*.env
-
 # Log files
 *.log
 
