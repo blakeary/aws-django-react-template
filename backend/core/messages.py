@@ -1,0 +1,15 @@
+REGISTRATION_SUCCESS = (
+    "Registration successful. Please check your email to verify your account."
+)
+EMAIL_VERIFICATION_SUCCESS = "Email verified successfully."
+NEW_EMAIL_VERIFICATION_SUCCESS = "New email verified successfully."
+EMAIL_UPDATE_SUCCESS = "Email update link sent to your new email address."
+INVALID_USER_ID = "Invalid user ID."
+INVALID_TOKEN = "Invalid token."
+INVALID_EMAIL = "Invalid email."
+REGISTRATION_FAILURE = "Registration failed. Please try again."
+PASSWORD_RESET_SUCCESS = "Password has been reset."
+PASSWORD_RESET_EMAIL_SENT = "Password reset link sent to your email."
+PASSWORD_CHANGE_SUCCESS = "Password has been changed."
+INVALID_OLD_PASSWORD = "Old password is not correct."
+PASSWORD_TOO_SHORT = "Password must be at least 8 characters long."

@@ -1,0 +1,79 @@
+# Byte-compiled / optimized / DLL files
+*.pyc
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+media/
+
+# Development files
+.dev/
+
+# Environment variables
+*.env
+
+# Log files
+*.log
+
+# Virtual environment
+venv/
+backend/venv/
+
+# Node modules
+node_modules/
+frontend/node_modules/
+
+# npm-debug files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OSX files
+.DS_Store
+
+# JetBrains IDEs
+.idea/
+
+# Coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Environments
+.env
+.envrc
+.mkenv
+.venv
+venv/
+ENV/
+env.bak/
+env/
